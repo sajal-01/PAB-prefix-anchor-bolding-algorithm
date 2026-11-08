@@ -209,5 +209,5 @@ Released under the [MIT License](LICENSE). You are free to use, modify, and shar
 If you use PAB in a study or project, please cite the repository:
 
 ```text
-Sajal. PAB – Prefix-Anchor Bolding. GitHub repository, https://github.com/sajal-01/REPO_NAME
+Sajal. PAB – Prefix-Anchor Bolding. GitHub repository, https://github.com/sajal-01/PAB-prefix-anchor-bolding-algorithm
 ```
